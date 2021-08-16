@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Blog</title>
+    <link>https://hugoblogproject.vercel.app/posts/</link>
+    <description>Recent content in Posts on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Aug 2021 13:09:05 +0100</lastBuildDate><atom:link href="https://hugoblogproject.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lamar</title>
+      <link>https://hugoblogproject.vercel.app/posts/lamar/</link>
+      <pubDate>Mon, 16 Aug 2021 13:09:05 +0100</pubDate>
+      
+      <guid>https://hugoblogproject.vercel.app/posts/lamar/</guid>
+      <description>Kendrick Lamar Duckworth (born June 17, 1987) is an American rapper, songwriter, and record producer. Since his mainstream debut in 2012 with Good Kid, M.A.A.D City, Lamar has been regarded as one of the most influential rappers of his generation.[1][2][3] Aside from his solo career, he is also known as a member of the hip hop supergroup Black Hippy alongside his Top Dawg Entertainment (TDE) label-mates Ab-Soul, Jay Rock, and Schoolboy Q.</description>
+    </item>
+    
+    <item>
+      <title>Vector</title>
+      <link>https://hugoblogproject.vercel.app/posts/vector/</link>
+      <pubDate>Mon, 16 Aug 2021 11:55:06 +0100</pubDate>
+      
+      <guid>https://hugoblogproject.vercel.app/posts/vector/</guid>
+      <description>Lanre was born in Lagos State, hails from Ogun State, the fourth of five children. He schooled in Nigeria attending Command children school, Ijebu Ode Grammar School, Government College Victoria Island &amp;amp; Saint Gregory&amp;rsquo;s College Ikoyi Lagos. He started his journey into hip-hop in junior high in 1994. In St. Gregory&amp;rsquo;s College, he was involved in various social activities in which he was made to perform from the stage. In 1999, he formed a duo called Badder Boiz, who wrote their own songs and in the same year went on to start performing at showcases as a trio.</description>
+    </item>
+    
+    <item>
+      <title>J Cole Story</title>
+      <link>https://hugoblogproject.vercel.app/posts/my-first-post/</link>
+      <pubDate>Fri, 13 Aug 2021 13:06:28 +0100</pubDate>
+      
+      <guid>https://hugoblogproject.vercel.app/posts/my-first-post/</guid>
+      <description>Jermaine Lamarr Cole (born January 28, 1985) known professionally as J. Cole, is an American rapper, singer, songwriter, and record producer. Cole is regarded as one of the most influential rappers of his generation.[5] Born on a military base in Germany and raised in Fayetteville, North Carolina,[6] Cole initially gained recognition as a rapper following the release of his debut mixtape, The Come Up, in early 2007. Intent on further pursuing a musical career, he went on to release two additional mixtapes, The Warm Up (2009) and Friday Night Lights (2010) both to critical acclaim, after signing to Jay-Z&amp;rsquo;s Roc Nation imprint in 2009.</description>
+    </item>
+    
+  </channel>
+</rss>

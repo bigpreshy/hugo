@@ -2,7 +2,7 @@
 title: "Lamar"
 featured_image: "/lamar.jpg"
 date: 2021-08-16T13:09:05+01:00
-draft: true
+draft: false
 ---
 
 Kendrick Lamar Duckworth (born June 17, 1987) is an American rapper, songwriter, and record producer. Since his mainstream debut in 2012 with Good Kid, M.A.A.D City, Lamar has been regarded as one of the most influential rappers of his generation.[1][2][3] Aside from his solo career, he is also known as a member of the hip hop supergroup Black Hippy alongside his Top Dawg Entertainment (TDE) label-mates Ab-Soul, Jay Rock, and Schoolboy Q.

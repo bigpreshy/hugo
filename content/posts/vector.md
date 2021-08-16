@@ -2,7 +2,7 @@
 title: "Vector"
 featured_image: "/vec.jpg"
 date: 2021-08-16T11:55:06+01:00
-draft: true
+draft: false
 ---
 
 Lanre was born in Lagos State, hails from Ogun State, the fourth of five children. 
