@@ -14,4 +14,4 @@ Cole released his debut studio album, Cole World: The Sideline Story, in 2011. I
 Self-taught on piano, Cole also acts as a producer alongside his rap career, producing singles for artists such as Kendrick Lamar and Janet Jackson, as well as handling the majority of the production in his own projects.[11] He has also developed other ventures, including Dreamville Records, as well as a non-profit organization called the Dreamville Foundation.[12] Dreamville's compilation album Revenge of the Dreamers III (2019) debuted at number one on the Billboard 200 and was nominated for Best Rap Album at the 2020 Grammy Awards. In January 2015, Cole decided to house single mothers rent-free at his childhood home in Fayetteville, North Carolina.[13]
 
 
-<!-- joc -->
+<!-- This is gotten from J cole Wikipedia page -->

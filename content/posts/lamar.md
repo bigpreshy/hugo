@@ -1,0 +1,14 @@
+---
+title: "Lamar"
+featured_image: "/lamar.jpg"
+date: 2021-08-16T13:09:05+01:00
+draft: true
+---
+
+Kendrick Lamar Duckworth (born June 17, 1987) is an American rapper, songwriter, and record producer. Since his mainstream debut in 2012 with Good Kid, M.A.A.D City, Lamar has been regarded as one of the most influential rappers of his generation.[1][2][3] Aside from his solo career, he is also known as a member of the hip hop supergroup Black Hippy alongside his Top Dawg Entertainment (TDE) label-mates Ab-Soul, Jay Rock, and Schoolboy Q.
+
+Raised in Compton, California, Lamar embarked on his musical career as a teenager under the stage name K-Dot, releasing a mixtape that garnered local attention and led to his signing with indie record label Top Dawg Entertainment. He began to gain recognition in 2010 after his first retail release, Overly Dedicated. The following year, he independently released his first studio album, Section.80, which included his debut single "HiiiPoWeR". By that time, he had amassed a large online following and collaborated with several prominent hip hop artists.
+
+Lamar's major label debut album, Good Kid, M.A.A.D City, was released in 2012 to critical acclaim. It was later certified Platinum by the Recording Industry Association of America (RIAA). His third album To Pimp a Butterfly (2015) incorporated elements of funk, soul, jazz, and spoken word. It became his first number one album on the Billboard 200, and was the most acclaimed album of the 2010s, according to statistics from Metacritic.[4] It was followed by Untitled Unmastered (2016), a collection of unreleased demos that originated during the recording sessions for To Pimp a Butterfly. He released his fourth album, Damn (2017) to further acclaim; its lead single "Humble" topped the US Billboard Hot 100, while the album became the first non-classical and non-jazz album to be awarded the Pulitzer Prize for Music.[5] In 2018, he wrote and produced 14 songs for the soundtrack to the superhero film Black Panther, which also received critical acclaim.
+
+Lamar has received many accolades over the course of his career, including 13 Grammy Awards, two American Music Awards, five Billboard Music Awards, a Brit Award, 11 MTV Video Music Awards, a Pulitzer Prize, and an Academy Award nomination. In 2012, MTV named him the Hottest MC in the Game on their annual list.[6] Time named him one of the 100 most influential people in the world in 2016.[7] In 2015, he received the California State Senate's Generational Icon Award. Three of his studio albums have been listed in Rolling Stone's 500 Greatest Albums of All Time (2020).
