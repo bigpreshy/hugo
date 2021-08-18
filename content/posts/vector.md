@@ -12,7 +12,7 @@ He started his journey into hip-hop in junior high in 1994. In St. Gregory's Col
 he was involved in various social activities in which he was made to perform from the stage. 
 In 1999, he formed a duo called Badder Boiz, who wrote their own songs and in the same year went on to start performing at showcases as a trio.[6]
 
-![Jcole](/vec.jpg)
+![Vector](/vec.jpg)
 
 They recorded their first demo in 1999 and attended talent showcases. Vector was going in the direction of an emcee. 
 As a group of three, consisting of Vector, Krystal & Blaze, they were together until 2004 when Krystal left due to irreconcilable differences.[7]

@@ -1,0 +1,16 @@
+---
+title: "Drake"
+featured_image: "/drake.jpg"
+date: 2021-08-18T18:25:14+01:00
+draft: false
+---
+
+Aubrey Drake Graham[5] (born October 24, 1986) is a Canadian rapper, singer, songwriter, actor, producer, and entrepreneur.[6] Gaining recognition by starring in the television series Degrassi: The Next Generation (2001–2007), Drake released his debut mixtape Room for Improvement in 2006; pursuing a career in music, he released the mixtapes Comeback Season (2007) and So Far Gone (2009) before signing with Young Money Entertainment.[7]
+
+Drake released his debut studio album Thank Me Later in 2010, which debuted at number one on the US Billboard 200. He achieved major critical success with Take Care (2011), and commercial success with Nothing Was the Same (2013)[8] and his first commercial mixtape If You're Reading This It's Too Late (2015); the latter two were certified multi-platinum in the US.[9] Drake's fourth album Views (2016) sat atop the Billboard 200 for 13 nonconsecutive weeks, becoming the first album by a male solo artist to do so in over a decade.[10] Marketed as a playlist, Drake's second solo commercial mixtape More Life (2017) set multiple streaming records.[11] In 2018, he released the double album Scorpion, which produced three number-one singles on the Billboard Hot 100.[12] Departing Young Money in 2018, Drake's third commercial mixtape Dark Lane Demo Tapes was released in 2020, and featured the Hot 100 number-one lead single "Toosie Slide". In 2021, the EP Scary Hours 2 included the number one single "What's Next" and set chart records.
+
+As an entrepreneur, Drake founded the OVO Sound record label with longtime collaborator 40 in 2012. In 2013, Drake became the new "global ambassador" of the Toronto Raptors, joining the executive committee of the NBA franchise, while owning naming rights to its practice facility. In 2016, he began collaborating with American entrepreneur Brent Hocking on the bourbon whiskey Virginia Black; it eventually broke sale records in Canada.[13] Drake has also designed fashion, the most notable including a sub-label collaboration with Nike, alongside other business ventures. In 2018, he was reportedly responsible for 5% (CAD$440 million) of Toronto's CAD$8.8 billion total annual tourism income.[14]
+
+![Drake](/drake.jpg)
+
+Among the world's best-selling music artists, with over 170 million records sold, Drake is ranked as the highest-certified digital singles artist in the United States by the RIAA.[15] He has won four Grammy Awards, six American Music Awards, a record 27 Billboard Music Awards, two Brit Awards, and three Juno Awards, and holds several Billboard chart records; Drake has the most top 10 placements on the Billboard Hot 100, the most charted songs (231) ever on the Hot 100,[16] the most simultaneously charted Hot 100 songs in one week (27), the most continuous time on the Hot 100 (431 weeks), and the most Hot 100 debuts in one week (22). He also has the most number-one singles on the R&B/Hip-Hop Airplay, Hot R&B/Hip-Hop Songs, Hot Rap Songs, and Rhythmic Airplay charts.
